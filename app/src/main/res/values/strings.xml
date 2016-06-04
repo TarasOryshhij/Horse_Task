@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CherryPieStudio</string>
+    <string name="str_calculate">Calculate</string>
+    <string name="str_first_coordinates">The first coordinates:</string>
+    <string name="str_second_coordinates">The second coordinates:</string>
+</resources>
